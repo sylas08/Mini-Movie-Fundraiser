@@ -16,3 +16,5 @@ if tickets_sold == MAX_TICKETS:
     print(f"You have sold all the tickets (ie: {MAX_TICKETS} tickets")
 else:
     print(f"You have sold {tickets_sold} / {MAX_TICKETS} tickets.")
+
+

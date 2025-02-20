@@ -51,6 +51,7 @@ def string_check(question, valid_answers=('yes', 'no'),
 
 
 # Main Route goes here
+# initialise variables / non-default options
 payment_ans = ('cash', 'credit')
 
 # loop for testing purposes...
